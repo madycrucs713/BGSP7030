@@ -8,4 +8,10 @@ dependencies:
   - pandas
   - matplotlib
   - scikitlearn
-
+  - r-base=4.0
+  - r-dpylyr
+  - r-ggplot2
+  - r-reshape2
+  - r-tidyverse
+  - r-plotly
+  - r-stringr
