@@ -7,11 +7,11 @@ dependencies:
   - plotly
   - pandas
   - matplotlib
-  - scikitlearn
+  - scikit-learn
   - r-base=4.0
-  - r-dpylyr
+  - r-dplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
-  - r-stringr
   - r-plotly
+  - r-stringr
